@@ -1,7 +1,7 @@
 %define devname %mklibname xtl -d
 
 Name: xtl
-Version: 0.7.6
+Version: 0.7.7
 Release: 1
 Source0: https://github.com/xtensor-stack/xtl/archive/refs/tags/%{version}.tar.gz
 Summary: Basic tools (containers, algorithms) used by other quantstack packages
